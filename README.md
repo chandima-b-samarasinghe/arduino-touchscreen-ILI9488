@@ -1,7 +1,7 @@
 # arduino-touchscreen-ILI9488
 Sample Codes and Working Library
 
-/* HERE COMES MY TUTORIAL
+/* SIMPLE TUTORIAL
 
 tft.println("");
 
